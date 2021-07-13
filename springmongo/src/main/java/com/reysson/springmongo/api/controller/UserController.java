@@ -1,4 +1,4 @@
-package com.reysson.springmongo.domain.controller;
+package com.reysson.springmongo.api.controller;
 
 import com.reysson.springmongo.domain.model.User;
 import com.reysson.springmongo.domain.service.UserService;
